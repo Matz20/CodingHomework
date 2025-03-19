@@ -344,3 +344,5 @@ namespace CS_Using_HashSet
         }
     }
     }
+// HashSets are faster for lookups, insertions, and deletions because they use hashing.
+// Lists are faster for iteration and indexed access since they store elements in contiguous memory, making traversal and direct access cache-friendly.
